@@ -1,25 +1,8 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-### Setup .env file
-
-```shell
-MONGO_URI=your_mongo_uri
-PORT=5000
-```
-
-### Run this app locally
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm run start
-```
-
-### I'll see you in the next one! 🚀
-"# mern-full-stack" 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
